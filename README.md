@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+### HABIT TRACKER
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+This project is a Habit Tracker designed to help you monitor your daily habits and stay consistent with your goals. Built with React, it offers an intuitive interface to track various habits such as prayers, reading, fasting, and custom habits.
 
 ### `yarn start`
 
