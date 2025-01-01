@@ -1,4 +1,4 @@
-### HABIT TRACKER
+### ISLAMIC HABIT TRACKER
 
 This project is a Habit Tracker designed to help you monitor your daily habits and stay consistent with your goals. Built with React, it offers an intuitive interface to track various habits such as prayers, reading, fasting, and custom habits.
 
